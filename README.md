@@ -126,7 +126,7 @@ flowchart TD
 ```bash
 # Clone the repository
 git clone https://github.com/sapnadfir-blip/ghost-in-the-cache.git
-cd tinker-tailor-llm-spy-bheu
+cd ghost-in-the-cache
 
 # Optional: Install requirements for cryptographic signing & figure generation
 pip install -r requirements.txt
@@ -198,7 +198,7 @@ python3 reproduce_figures.py
 
 ## 📄 Research Documentation
 
-* 📑 **Black Hat Europe Briefings Paper:** [`docs/Tinker_Tailor_LLM_Spy_Paper.pdf`](docs/Tinker_Tailor_LLM_Spy_Paper.pdf)
+* 📑 **Black Hat Asia Briefings Paper:** [`docs/Tinker_Tailor_LLM_Spy_Paper.pdf`](docs/Tinker_Tailor_LLM_Spy_Paper.pdf)
 * 🛡️ **Executive Vulnerability Report:** [`docs/Vulnerability_Summary_Report.pdf`](docs/Vulnerability_Summary_Report.pdf)
 * 🖥️ **Presentation Slides Deck:** [`docs/presentation_slides.pdf`](docs/presentation_slides.pdf)
 * 🎨 **Research Conference Poster:** [`docs/research_poster.pdf`](docs/research_poster.pdf)
